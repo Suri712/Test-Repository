@@ -1,0 +1,4 @@
+lst = {}
+type(lst)
+lst = [55,88,99,10]
+lst.append(17)
