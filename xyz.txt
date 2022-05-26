@@ -1,7 +1,0 @@
-lst = {}
-type(lst)
-lst = [55,88,99,10]
-lst.append(17)
-i am inserting values to list 
-lst [0] = 5
-

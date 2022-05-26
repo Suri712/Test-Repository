@@ -1,2 +1,0 @@
-a = "good morning" 
-Print (a)
