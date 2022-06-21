@@ -75,6 +75,6 @@ while start <= end:
     print (start)
     start = start+1
 
-while if not >==1
-print (" status")
+
+
 
