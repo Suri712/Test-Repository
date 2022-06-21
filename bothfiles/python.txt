@@ -1,0 +1,77 @@
+lst = []
+type(lst)
+lst = [11,88,55,68,45]
+type(lst)
+lst.append(25)
+lst
+lst.remove(25)
+lst
+lst.insert(2,500)
+lst
+lst1 = [55,87,99,78]
+lst2 = [25,65,49,14]
+lst1.extend (lst2)
+lst1
+len(lst1)
+lst1 + lst2
+lst.reverse()
+lst
+min (lst)
+min(lst)
+max (lst)
+sum(lst)
+lst.sort()
+lst
+suri=lst
+suri
+suri.append(77)
+suri
+s = "virat is super king in world cricket"
+type(s)
+a= s.split(" ")
+a
+type(a)
+lst [-1]
+lst [-5]
+lst [0]
+lst[: :]
+lst[0:5:]
+s = 55
+b = 77
+if b<s:
+    print ("suri")
+else:
+    print("bhavi")
+
+s = 77
+if s % 2 == 0:
+    print ("even number")
+else:
+    print ("odd number")
+    
+marks = 55
+if marks > 75:
+    print("A Grade")
+elif marks == 75:
+    print ("B Grade")
+else:
+    print ("C Grade")
+marks = 35
+print ("PASSED") if marks>= 45 else print ("Failed")
+45
+s = 1
+while s < 10:
+    print (s)
+s += 1
+def better(n):
+    sum = 0
+    for num in range(n + 1):
+        sum += num
+    return sum
+
+start = 1
+end = 10
+while start <= end:
+    print (start)
+    start = start+1
+
